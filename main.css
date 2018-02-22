@@ -4,6 +4,11 @@ body {
 
 #product-overview {
     background: #ff1b68;
+    padding: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    margin: 20px;
 }
 
 .section-title {
