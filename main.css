@@ -10,12 +10,11 @@ body {
     color: #2ddf5c;
 }
 
-h1 {
+#product-overview h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }
 
-
-/* h1 {
+h1 {
     font-family: sans-serif;
-} */
+}
